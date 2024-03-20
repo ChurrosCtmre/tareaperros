@@ -1,0 +1,7 @@
+body{
+    font-family: "Madimi One", sans-serif;
+}
+.listapersonas{
+    list-style: disc;
+    padding: 120px;
+}
